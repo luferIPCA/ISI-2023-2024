@@ -1,0 +1,10 @@
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.Form1.resources
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.cache
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+D:\Temp\ISI - LESI\CodigoAulas\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb

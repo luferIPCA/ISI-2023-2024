@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://esp.ipca.pt/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://esp.ipca.pt/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>Serviços feitos na aula</wsdl:documentation>
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://esp.ipca.pt/">
+      <s:element name="Ola">
+        <s:complexType/>
+      </s:element>
+      <s:element name="OlaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="OlaResult" type="s:string"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Soma">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="x" type="s:int"/>
+            <s:element minOccurs="1" maxOccurs="1" name="y" type="s:int"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SomaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SomaResult" type="s:int"/>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="OlaSoapIn">
+    <wsdl:part name="parameters" element="tns:Ola"/>
+  </wsdl:message>
+  <wsdl:message name="OlaSoapOut">
+    <wsdl:part name="parameters" element="tns:OlaResponse"/>
+  </wsdl:message>
+  <wsdl:message name="SomaSoapIn">
+    <wsdl:part name="parameters" element="tns:Soma"/>
+  </wsdl:message>
+  <wsdl:message name="SomaSoapOut">
+    <wsdl:part name="parameters" element="tns:SomaResponse"/>
+  </wsdl:message>
+  <wsdl:portType name="CalcSoap">
+    <wsdl:operation name="Ola">
+      <wsdl:documentation>Mostra alguma coisa</wsdl:documentation>
+      <wsdl:input message="tns:OlaSoapIn"/>
+      <wsdl:output message="tns:OlaSoapOut"/>
+    </wsdl:operation>
+    <wsdl:operation name="Soma">
+      <wsdl:documentation>Calcula a soma...</wsdl:documentation>
+      <wsdl:input message="tns:SomaSoapIn"/>
+      <wsdl:output message="tns:SomaSoapOut"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CalcSoap" type="tns:CalcSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="Ola">
+      <soap:operation soapAction="http://esp.ipca.pt/Ola" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Soma">
+      <soap:operation soapAction="http://esp.ipca.pt/Soma" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CalcSoap12" type="tns:CalcSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="Ola">
+      <soap12:operation soapAction="http://esp.ipca.pt/Ola" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Soma">
+      <soap12:operation soapAction="http://esp.ipca.pt/Soma" style="document"/>
+      <wsdl:input>
+        <soap12:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Calc">
+    <wsdl:documentation>Serviços feitos na aula</wsdl:documentation>
+    <wsdl:port name="CalcSoap" binding="tns:CalcSoap">
+      <soap:address location="https://localhost:44300/Service/Calc.asmx"/>
+    </wsdl:port>
+    <wsdl:port name="CalcSoap12" binding="tns:CalcSoap12">
+      <soap12:address location="https://localhost:44300/Service/Calc.asmx"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

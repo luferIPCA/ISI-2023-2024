@@ -1,0 +1,63 @@
+C:\Temp\ISI\WS\DBWS\DBWS\bin\DBWS.dll.config
+C:\Temp\ISI\WS\DBWS\DBWS\bin\DBWS.dll
+C:\Temp\ISI\WS\DBWS\DBWS\bin\DBWS.pdb
+C:\Temp\ISI\WS\DBWS\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\WS\DBWS\DBWS\obj\Debug\DBWS.dll
+C:\Temp\ISI\WS\DBWS\DBWS\obj\Debug\DBWS.pdb
+C:\Temp\ISI\WS\DBWS\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\bin\DBWS.dll.config
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\bin\DBWS.dll
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\bin\DBWS.pdb
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.dll
+C:\Temp\ISI\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.pdb
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\bin\DBWS.dll.config
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\bin\DBWS.dll
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\bin\DBWS.pdb
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.dll
+D:\IPCA\2020-2021\AULAS\ISI\Material Pedagógico\WS\DB\DBWS1\DBWS\obj\Debug\DBWS.pdb
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\bin\DBWS.dll
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\bin\DBWS.pdb
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.dll
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.pdb
+C:\Temp\ISI\WS_DB\DBWS1\DBWS\bin\DBWS.dll.config
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\bin\DBWS.dll.config
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\bin\DBWS.dll
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\bin\DBWS.pdb
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.dll
+C:\Temp\ISI\WS\WS_DB\DBWS1\DBWS\obj\Debug\DBWS.pdb
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\bin\DBWS.dll.config
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\bin\DBWS.dll
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\bin\DBWS.pdb
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\obj\Debug\DBWS.dll
+D:\Temp\ISI- ESI\SOA\WCF Web Service\SOAP BD\DBWS1\DBWS\obj\Debug\DBWS.pdb
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\bin\DBWS.dll.config
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\bin\DBWS.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\bin\DBWS.pdb
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\obj\Debug\DBWS.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\WCF Web Service\Services\BDWS\DBWS1\DBWS\obj\Debug\DBWS.pdb
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\bin\DBWS.dll.config
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\bin\DBWS.dll
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\bin\DBWS.pdb
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\obj\Debug\DBWS.csprojAssemblyReference.cache
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\obj\Debug\DBWS.dll
+D:\Temp\ISI\SOA\WS_XML\3_WCF_BD\Serviço\DBWS1\DBWS\obj\Debug\DBWS.pdb
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\bin\DBWS.dll.config
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\bin\DBWS.dll
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\bin\DBWS.pdb
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\obj\Debug\DBWS.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\obj\Debug\DBWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\obj\Debug\DBWS.dll
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\BD\DB_WS\DBWS\obj\Debug\DBWS.pdb

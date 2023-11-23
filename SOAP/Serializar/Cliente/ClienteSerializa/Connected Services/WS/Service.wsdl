@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.ipca.pt/ws/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s1="http://www.ipca.pt/ws/Pessoa" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.ipca.pt/ws/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.ipca.pt/ws/">
+      <s:import namespace="http://www.ipca.pt/ws/Pessoa" />
+      <s:element name="GetAllPessoas">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAllPessoasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllPessoasResult" type="tns:ArrayOfPessoa" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfPessoa">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Pessoa" nillable="true" type="s1:Pessoa" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetAllPessoasII">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAllPessoasIIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s1:SetPessoas" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetAllPessoasIII">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAllPessoasIIIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" ref="s1:MuitasPessoas" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShowPessoa">
+        <s:complexType />
+      </s:element>
+      <s:element name="ShowPessoaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s1:Humano" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShowBook">
+        <s:complexType />
+      </s:element>
+      <s:element name="ShowBookResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ShowBookResult" type="tns:Book" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Book">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ISBN" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.ipca.pt/ws/Pessoa">
+      <s:complexType name="Pessoa">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="NomePessoa" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdadePessoa" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SetPessoas" type="s1:MyPessoas" />
+      <s:complexType name="MyPessoas">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="pessoas" type="s1:ArrayOfPessoa" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfPessoa">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Pessoa" nillable="true" type="s1:Pessoa" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="MuitasPessoas" nillable="true" type="s1:MyPessoasII" />
+      <s:complexType name="MyPessoasII">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ListaPessoas" type="s1:ArrayOfPessoa" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Humano" type="s1:Pessoa" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetAllPessoasSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllPessoas" />
+  </wsdl:message>
+  <wsdl:message name="GetAllPessoasSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllPessoasResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllPessoasIISoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllPessoasII" />
+  </wsdl:message>
+  <wsdl:message name="GetAllPessoasIISoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllPessoasIIResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllPessoasIIISoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllPessoasIII" />
+  </wsdl:message>
+  <wsdl:message name="GetAllPessoasIIISoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllPessoasIIIResponse" />
+  </wsdl:message>
+  <wsdl:message name="ShowPessoaSoapIn">
+    <wsdl:part name="parameters" element="tns:ShowPessoa" />
+  </wsdl:message>
+  <wsdl:message name="ShowPessoaSoapOut">
+    <wsdl:part name="parameters" element="tns:ShowPessoaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ShowBookSoapIn">
+    <wsdl:part name="parameters" element="tns:ShowBook" />
+  </wsdl:message>
+  <wsdl:message name="ShowBookSoapOut">
+    <wsdl:part name="parameters" element="tns:ShowBookResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="GetAllPessoas">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Devolve um array de Pessoas</wsdl:documentation>
+      <wsdl:input message="tns:GetAllPessoasSoapIn" />
+      <wsdl:output message="tns:GetAllPessoasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPessoasII">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Devolve um objecto Pessoas serializada</wsdl:documentation>
+      <wsdl:input message="tns:GetAllPessoasIISoapIn" />
+      <wsdl:output message="tns:GetAllPessoasIISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPessoasIII">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Devolve um ArralyList de Pessoas serializada</wsdl:documentation>
+      <wsdl:input message="tns:GetAllPessoasIIISoapIn" />
+      <wsdl:output message="tns:GetAllPessoasIIISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowPessoa">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Mostra uma Pessoa 'Serializada'</wsdl:documentation>
+      <wsdl:input message="tns:ShowPessoaSoapIn" />
+      <wsdl:output message="tns:ShowPessoaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ShowBook">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Mostra um Book</wsdl:documentation>
+      <wsdl:input message="tns:ShowBookSoapIn" />
+      <wsdl:output message="tns:ShowBookSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllPessoas">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetAllPessoas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPessoasII">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetAllPessoasII" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPessoasIII">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetAllPessoasIII" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShowPessoa">
+      <soap:operation soapAction="http://www.ipca.pt/ws/ShowPessoa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShowBook">
+      <soap:operation soapAction="http://www.ipca.pt/ws/ShowBook" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllPessoas">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetAllPessoas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPessoasII">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetAllPessoasII" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPessoasIII">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetAllPessoasIII" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShowPessoa">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/ShowPessoa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShowBook">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/ShowBook" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://localhost:52829/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://localhost:52829/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

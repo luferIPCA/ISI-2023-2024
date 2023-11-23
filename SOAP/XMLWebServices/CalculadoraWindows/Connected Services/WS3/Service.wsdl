@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.ipca.pt/ws/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s1="ipca:http://www.ipca.pt/ws/HotelClasse" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s2="http://www.ipca.pt/ws/HotelClasse" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.ipca.pt/ws/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.ipca.pt/ws/">
+      <s:import namespace="ipca:http://www.ipca.pt/ws/HotelClasse" />
+      <s:import namespace="http://www.w3.org/2001/XMLSchema" />
+      <s:element name="GetAllHoteisClass">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAllHoteisClassResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllHoteisClassResult" type="tns:ArrayOfHotelClass" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfHotelClass">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="HotelClass" nillable="true" type="s1:HotelClass" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetAllHoteisClassII">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetAllHoteisClassIIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAllHoteisClassIIResult" type="tns:ArrayOfHotelClassII" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfHotelClassII">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="HotelClassII" nillable="true">
+            <s:complexType>
+              <s:sequence>
+                <s:element ref="s:schema" />
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetHotelClass">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetHotelClassResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" ref="s1:HotelNovo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetHotelClassII">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetHotelClassIIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetHotelClassIIResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="ipca:http://www.ipca.pt/ws/HotelClasse">
+      <s:import namespace="http://www.ipca.pt/ws/HotelClasse" />
+      <s:complexType name="HotelClass">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" ref="s2:nom" />
+          <s:element minOccurs="0" maxOccurs="1" ref="s2:cid" />
+          <s:element minOccurs="1" maxOccurs="1" name="cap" type="s:int" />
+        </s:sequence>
+        <s:attribute ref="s2:id" />
+      </s:complexType>
+      <s:element name="HotelNovo" type="s1:HotelClass" />
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.ipca.pt/ws/HotelClasse">
+      <s:element name="nom" type="s:string" />
+      <s:element name="cid" type="s:string" />
+      <s:attribute name="id" type="s:int" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetAllHoteisClassSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllHoteisClass" />
+  </wsdl:message>
+  <wsdl:message name="GetAllHoteisClassSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllHoteisClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAllHoteisClassIISoapIn">
+    <wsdl:part name="parameters" element="tns:GetAllHoteisClassII" />
+  </wsdl:message>
+  <wsdl:message name="GetAllHoteisClassIISoapOut">
+    <wsdl:part name="parameters" element="tns:GetAllHoteisClassIIResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetHotelClassSoapIn">
+    <wsdl:part name="parameters" element="tns:GetHotelClass" />
+  </wsdl:message>
+  <wsdl:message name="GetHotelClassSoapOut">
+    <wsdl:part name="parameters" element="tns:GetHotelClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetHotelClassIISoapIn">
+    <wsdl:part name="parameters" element="tns:GetHotelClassII" />
+  </wsdl:message>
+  <wsdl:message name="GetHotelClassIISoapOut">
+    <wsdl:part name="parameters" element="tns:GetHotelClassIIResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="GetAllHoteisClass">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Hoteis existentes...devolve HotelClass[] </wsdl:documentation>
+      <wsdl:input message="tns:GetAllHoteisClassSoapIn" />
+      <wsdl:output message="tns:GetAllHoteisClassSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllHoteisClassII">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Hoteis existentes...com IXMLSerializable</wsdl:documentation>
+      <wsdl:input message="tns:GetAllHoteisClassIISoapIn" />
+      <wsdl:output message="tns:GetAllHoteisClassIISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHotelClass">
+      <wsdl:input message="tns:GetHotelClassSoapIn" />
+      <wsdl:output message="tns:GetHotelClassSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHotelClassII">
+      <wsdl:input message="tns:GetHotelClassIISoapIn" />
+      <wsdl:output message="tns:GetHotelClassIISoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllHoteisClass">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetAllHoteisClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllHoteisClassII">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetAllHoteisClassII" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHotelClass">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetHotelClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHotelClassII">
+      <soap:operation soapAction="http://www.ipca.pt/ws/GetHotelClassII" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllHoteisClass">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetAllHoteisClass" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllHoteisClassII">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetAllHoteisClassII" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHotelClass">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetHotelClass" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetHotelClassII">
+      <soap12:operation soapAction="http://www.ipca.pt/ws/GetHotelClassII" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://localhost:52999/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://localhost:52999/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

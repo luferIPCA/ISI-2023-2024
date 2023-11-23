@@ -1,0 +1,10 @@
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\bin\Debug\ClienteWS.exe.config
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\bin\Debug\ClienteWS.exe
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\bin\Debug\ClienteWS.pdb
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.exe
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\ClienteWS\obj\Debug\ClienteWS.pdb

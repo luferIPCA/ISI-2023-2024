@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Serializar II", "Serializar II\", "{39F7813E-DED3-450E-9EF3-8B2430EA750E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/HoteisWSII"
+		Debug.AspNetCompiler.PhysicalPath = "HoteisWSII\"
+		Debug.AspNetCompiler.TargetPath = "HoteisWSII\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/HoteisWSII"
+		Release.AspNetCompiler.PhysicalPath = "HoteisWSII\"
+		Release.AspNetCompiler.TargetPath = "HoteisWSII\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52999"
+		SlnRelativePath = "HoteisWSII\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F7813E-DED3-450E-9EF3-8B2430EA750E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F7813E-DED3-450E-9EF3-8B2430EA750E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDC9FB4E-1499-4FC4-9B7D-4287909BC036}
+	EndGlobalSection
+EndGlobal

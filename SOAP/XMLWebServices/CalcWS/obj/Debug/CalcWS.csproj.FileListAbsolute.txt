@@ -1,0 +1,10 @@
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\bin\CalcWS.dll.config
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\bin\CalcWS.dll
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\bin\CalcWS.pdb
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\obj\Debug\CalcWS.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\obj\Debug\CalcWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\obj\Debug\CalcWS.csproj.CopyComplete
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\obj\Debug\CalcWS.dll
+D:\Temp\ISI - LESI\CodigoAulas\SOAP\XMLWebServices\CalcWS\obj\Debug\CalcWS.pdb

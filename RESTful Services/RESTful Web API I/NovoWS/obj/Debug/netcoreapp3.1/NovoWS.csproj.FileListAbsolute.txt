@@ -1,0 +1,54 @@
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.exe
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.deps.json
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.runtimeconfig.json
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.runtimeconfig.dev.json
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.dll
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.pdb
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI\RESTful-WS\NovoWS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.csproj.AssemblyReference.cache
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.AssemblyInfoInputs.cache
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.AssemblyInfo.cs
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\staticwebassets\NovoWS.StaticWebAssets.Manifest.cache
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\staticwebassets\NovoWS.StaticWebAssets.xml
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\scopedcss\bundle\NovoWS.styles.css
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.csproj.CopyComplete
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.dll
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.pdb
+D:\Temp\ISI\RESTful-WS\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.genruntimeconfig.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.exe
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.deps.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.runtimeconfig.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.runtimeconfig.dev.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\NovoWS.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.AssemblyInfoInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.AssemblyInfo.cs
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\staticwebassets\NovoWS.StaticWebAssets.Manifest.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\staticwebassets\NovoWS.StaticWebAssets.xml
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\scopedcss\bundle\NovoWS.styles.css
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.csproj.CopyComplete
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\NovoWS\obj\Debug\netcoreapp3.1\NovoWS.genruntimeconfig.cache

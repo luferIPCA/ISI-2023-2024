@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSupSscuMJafS59TdPCfRiFuhhCoDp9VeHC1CMOs+QtINgSAKu/W2dvSKcxWL7OomaG0Y82BSqSHMd0QVhWt8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESTful-WS\\RESTful Services\\RESTful Web API I\\NovoWS\\NovoWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lufer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lufer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lufer\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\lufer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\lufer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\lufer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

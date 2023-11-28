@@ -1,0 +1,301 @@
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\appsettings.json
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lufer\Downloads\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.csprojAssemblyReference.cache
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+C:\Users\lufer\Downloads\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.csprojAssemblyReference.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\appsettings.json
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\NJsonSchema.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\NSwag.Core.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Temp\ISI\JWT\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\ISI\JWT\RESTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csprojAssemblyReference.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.json
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NJsonSchema.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Core.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+C:\Temp\ISI\Aulas\Aula 2020-12-17 - OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NJsonSchema.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Core.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csprojAssemblyReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NJsonSchema.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Core.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csprojAssemblyReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.json
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NJsonSchema.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Core.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.AssemblyReference.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+D:\Temp Semestre 1 - 21-22\ISI- ESI\SOA\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.Development.json
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\appsettings.json
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.exe
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.deps.json
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.json
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.runtimeconfig.dev.json
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\RESTAuth.pdb
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NJsonSchema.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Core.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.AssemblyReference.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfoInputs.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.AssemblyInfo.cs
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CoreCompileInputs.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\staticwebassets\RESTAuth.StaticWebAssets.xml
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\scopedcss\bundle\RESTAuth.styles.css
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.csproj.CopyComplete
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\ref\RESTAuth.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.pdb
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\OAuth RESTful .NET Core Service\RESTAuth\obj\Debug\net5.0\RESTAuth.genruntimeconfig.cache

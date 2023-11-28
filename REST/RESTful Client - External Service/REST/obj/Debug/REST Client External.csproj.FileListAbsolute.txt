@@ -1,0 +1,33 @@
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\REST1.exe.config
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\REST1.exe
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\REST1.pdb
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\Newtonsoft.Json.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Text.Json.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Memory.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Text.Encodings.Web.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Numerics.Vectors.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Buffers.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST1.exe.config
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST Client External.csproj.CoreCompileInputs.cache
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST Client External.csproj.CopyComplete
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST1.exe
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp Semestre 1 - 22-23\ISI\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST1.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\REST1.exe.config
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\REST1.exe
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\REST1.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\Newtonsoft.Json.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Text.Json.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Memory.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Text.Encodings.Web.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Numerics.Vectors.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\bin\Debug\System.Buffers.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST Client External.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST1.exe.config
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST Client External.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST Client External.csproj.CopyComplete
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST1.exe
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Client - External Service\REST\obj\Debug\REST1.pdb

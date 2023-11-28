@@ -1,0 +1,100 @@
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\WebAPI Client.exe.config
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\WebAPI Client.exe
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\WebAPI Client.pdb
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.csprojAssemblyReference.cache
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI_Client.Form1.resources
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI_Client.Properties.Resources.resources
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.csproj.GenerateResource.cache
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.exe
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.pdb
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Text.Json.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Memory.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Buffers.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.csproj.CopyComplete
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Buffers.xml
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Memory.xml
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Temp\ISI\WebAPI Client\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\Interop.CompressLib.dll
+C:\Temp\ISI\WebAPI Client\WebAPI Client\obj\Debug\WebAPI Client.csproj.ResolveComReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.exe.config
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Buffers.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Memory.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Numerics.Vectors.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Text.Json.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Buffers.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Memory.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Numerics.Vectors.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csprojAssemblyReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\Interop.CompressLib.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.ResolveComReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI_Client.Form1.resources
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI_Client.Properties.Resources.resources
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.GenerateResource.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.CoreCompileInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.CopyComplete
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.exe.config
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Buffers.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Memory.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Numerics.Vectors.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Text.Json.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Buffers.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Memory.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Numerics.Vectors.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csprojAssemblyReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\Interop.CompressLib.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.ResolveComReference.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI_Client.Form1.resources
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI_Client.Properties.Resources.resources
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.GenerateResource.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.CoreCompileInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.CopyComplete
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.pdb
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.exe.config
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.exe
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\WebAPI Client.pdb
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Buffers.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Memory.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Numerics.Vectors.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Text.Json.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Text.Encodings.Web.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Buffers.xml
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Memory.xml
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Numerics.Vectors.xml
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.AssemblyReference.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\Interop.CompressLib.dll
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.ResolveComReference.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI_Client.Form1.resources
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI_Client.Properties.Resources.resources
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.GenerateResource.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.CoreCompileInputs.cache
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.csproj.CopyComplete
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.exe
+D:\Temp\ISI\RESTful-WS\RESTful Services\RESTful OAuth\Cliente RESTful .NET Core Service\WebAPI Client\obj\Debug\WebAPI Client.pdb

@@ -1,0 +1,7 @@
+C:\Temp\ISI\REST\Clients\SerializingJSON\bin\Debug\SERIALISING_JSON.exe.config
+C:\Temp\ISI\REST\Clients\SerializingJSON\bin\Debug\SERIALISING_JSON.exe
+C:\Temp\ISI\REST\Clients\SerializingJSON\bin\Debug\SERIALISING_JSON.pdb
+C:\Temp\ISI\REST\Clients\SerializingJSON\obj\Debug\SerializingJSON.csprojAssemblyReference.cache
+C:\Temp\ISI\REST\Clients\SerializingJSON\obj\Debug\SerializingJSON.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\REST\Clients\SerializingJSON\obj\Debug\SERIALISING_JSON.exe
+C:\Temp\ISI\REST\Clients\SerializingJSON\obj\Debug\SERIALISING_JSON.pdb

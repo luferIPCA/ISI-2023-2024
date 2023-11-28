@@ -1,0 +1,68 @@
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\OutroRestfull.exe
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\OutroRestfull.deps.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\OutroRestfull.runtimeconfig.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\OutroRestfull.runtimeconfig.dev.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\OutroRestfull.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\OutroRestfull.pdb
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.AssemblyInfoInputs.cache
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.AssemblyInfo.cs
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.csproj.CoreCompileInputs.cache
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\staticwebassets\OutroRestfull.StaticWebAssets.Manifest.cache
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\staticwebassets\OutroRestfull.StaticWebAssets.xml
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\scopedcss\bundle\OutroRestfull.styles.css
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.csproj.CopyComplete
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.pdb
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.genruntimeconfig.cache
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\appsettings.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.exe
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.deps.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.runtimeconfig.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.runtimeconfig.dev.json
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.pdb
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\OutroRestfull.xml
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\API\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI\RESTful-WS\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\appsettings.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.exe
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.deps.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.runtimeconfig.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.runtimeconfig.dev.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\OutroRestfull.xml
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\API\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.AssemblyInfoInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.AssemblyInfo.cs
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\staticwebassets\OutroRestfull.StaticWebAssets.Manifest.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\staticwebassets\OutroRestfull.StaticWebAssets.xml
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\scopedcss\bundle\OutroRestfull.styles.css
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.csproj.CopyComplete
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESTful-WS\RESTful Services\RESTful Web API I\OutroRestfull\obj\Debug\netcoreapp3.1\OutroRestfull.genruntimeconfig.cache

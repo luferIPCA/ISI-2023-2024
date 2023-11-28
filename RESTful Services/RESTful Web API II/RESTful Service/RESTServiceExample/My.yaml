@@ -1,0 +1,105 @@
+﻿openapi: 3.0.1
+info:
+  title: RESTServiceExample
+  version: v1
+  host: ISI2021.appspot.com
+paths:
+  /api/Alunos/insere:
+    post:
+      tags:
+        - Alunos
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Aluno'
+          text/json:
+            schema:
+              $ref: '#/components/schemas/Aluno'
+          application/*+json:
+            schema:
+              $ref: '#/components/schemas/Aluno'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/Aluno'
+          text/xml:
+            schema:
+              $ref: '#/components/schemas/Aluno'
+          application/*+xml:
+            schema:
+              $ref: '#/components/schemas/Aluno'
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                type: boolean
+            application/json:
+              schema:
+                type: boolean
+            text/json:
+              schema:
+                type: boolean
+            application/xml:
+              schema:
+                type: boolean
+            text/xml:
+              schema:
+                type: boolean
+  /api/Alunos/getAluno/{nome}:
+    get:
+      tags:
+        - Alunos
+      parameters:
+        - name: nome
+          in: path
+          required: true
+          schema:
+            type: string
+            nullable: true
+      responses:
+        '200':
+          description: Success
+          content:
+            text/plain:
+              schema:
+                $ref: '#/components/schemas/Aluno'
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Aluno'
+            text/json:
+              schema:
+                $ref: '#/components/schemas/Aluno'
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Aluno'
+            text/xml:
+              schema:
+                $ref: '#/components/schemas/Aluno'
+  /api/Varios/Fahrenheit/{temperatura}:
+    get:
+      tags:
+        - Varios
+      parameters:
+        - name: temperatura
+          in: path
+          required: true
+          schema:
+            type: number
+            format: double
+      responses:
+        '200':
+          description: Success
+components:
+  schemas:
+    Aluno:
+      type: object
+      properties:
+        nome:
+          type: string
+          nullable: true
+        idade:
+          type: integer
+          format: int32
+      additionalProperties: false

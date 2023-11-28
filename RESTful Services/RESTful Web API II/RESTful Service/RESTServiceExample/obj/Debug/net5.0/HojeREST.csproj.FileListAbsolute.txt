@@ -1,0 +1,111 @@
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\appsettings.Development.json
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\appsettings.json
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.exe
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.deps.json
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.runtimeconfig.json
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.runtimeconfig.dev.json
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\ref\HojeREST.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.pdb
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.csprojAssemblyReference.cache
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.AssemblyInfoInputs.cache
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.AssemblyInfo.cs
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\staticwebassets\HojeREST.StaticWebAssets.Manifest.cache
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\staticwebassets\HojeREST.StaticWebAssets.xml
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\scopedcss\bundle\HojeREST.styles.css
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.RazorTargetAssemblyInfo.cache
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.csproj.CopyComplete
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\ref\HojeREST.dll
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.pdb
+C:\Temp\ISI\HOje\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.genruntimeconfig.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\appsettings.Development.json
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\appsettings.json
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.exe
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.deps.json
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.runtimeconfig.json
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.runtimeconfig.dev.json
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\ref\HojeREST.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\HojeREST.pdb
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.csprojAssemblyReference.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.AssemblyInfoInputs.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.AssemblyInfo.cs
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.MvcApplicationPartsAssemblyInfo.cs
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\staticwebassets\HojeREST.StaticWebAssets.Manifest.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\staticwebassets\HojeREST.StaticWebAssets.xml
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\scopedcss\bundle\HojeREST.styles.css
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.RazorTargetAssemblyInfo.cache
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.csproj.CopyComplete
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\ref\HojeREST.dll
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.pdb
+C:\Temp\ISI\Aulas\Aula 2020-12-15 - RESTful Service\HojeREST\HojeREST\obj\Debug\net5.0\HojeREST.genruntimeconfig.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\appsettings.Development.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\appsettings.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.exe
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.deps.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.runtimeconfig.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.runtimeconfig.dev.json
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\ref\HojeREST.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\HojeREST.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.AssemblyInfoInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.AssemblyInfo.cs
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.csproj.CoreCompileInputs.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\staticwebassets\HojeREST.StaticWebAssets.Manifest.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\staticwebassets\HojeREST.StaticWebAssets.xml
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\scopedcss\bundle\HojeREST.styles.css
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.csproj.CopyComplete
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\ref\HojeREST.dll
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.pdb
+D:\Temp\ISI- ESI\SOA\RESTful Services\RESTful Web API\RESTful Service\HojeREST\obj\Debug\net5.0\HojeREST.genruntimeconfig.cache

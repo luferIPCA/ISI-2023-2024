@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovoWS", "NovoWS.csproj", "{8DFE06F5-ED72-4C1D-AADB-A984C1740C75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutroRestfull", "..\OutroRestfull\OutroRestfull.csproj", "{B5857256-DDCE-4003-BB83-73D18E6D52F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DFE06F5-ED72-4C1D-AADB-A984C1740C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFE06F5-ED72-4C1D-AADB-A984C1740C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFE06F5-ED72-4C1D-AADB-A984C1740C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFE06F5-ED72-4C1D-AADB-A984C1740C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5857256-DDCE-4003-BB83-73D18E6D52F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5857256-DDCE-4003-BB83-73D18E6D52F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5857256-DDCE-4003-BB83-73D18E6D52F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5857256-DDCE-4003-BB83-73D18E6D52F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA3E3E4-BEF9-4917-A4F8-ABE0892A9A74}
+	EndGlobalSection
+EndGlobal

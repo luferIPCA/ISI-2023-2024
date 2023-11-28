@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OutroRestfull</name>
+    </assembly>
+    <members>
+        <member name="T:OutroRestfull.Controllers.WeatherForecastController">
+            <summary>
+            Serviços sobre o Tempo
+            </summary>
+        </member>
+        <member name="M:OutroRestfull.Controllers.WeatherForecastController.Get">
+            <summary>
+            Mostra o tempo em todas as cidades
+            </summary>
+            <returns>Time Date</returns>
+            <response code="200">Success</response>
+            <response code="400">City unknown</response>
+        </member>
+        <member name="M:OutroRestfull.Controllers.WeatherForecastController.GetCitySummary(System.Int32)">
+            <summary>
+            Get Data from a particular City
+            </summary>
+            <param name="i"></param>
+            <returns>Time Date of a particular city</returns>
+            <response code="200">Success</response>
+            <response code="400">City unknown</response>
+        </member>
+        <member name="T:OutroRestfull.WeatherForecast">
+            <summary>
+            Modelo auxiliar
+            </summary>
+        </member>
+        <member name="P:OutroRestfull.WeatherForecast.Date">
+            <summary>
+            Data
+            </summary>
+        </member>
+        <member name="P:OutroRestfull.WeatherForecast.TemperatureC">
+            <summary>
+            Temperatura em Celsius :
+            <example> temperaturaC = 30</example>
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,28 @@
+C:\Temp\ISI\XML\SerializeTo\bin\Debug\SerializeTo.exe.config
+C:\Temp\ISI\XML\SerializeTo\bin\Debug\SerializeTo.exe
+C:\Temp\ISI\XML\SerializeTo\bin\Debug\SerializeTo.pdb
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csprojAssemblyReference.cache
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.Form1.resources
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.Properties.Resources.resources
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.GenerateResource.cache
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.CoreCompileInputs.cache
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.exe
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.pdb
+C:\Temp\ISI\XML\SerializeTo\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\ISI\XML\SerializeTo\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.CopyComplete
+C:\Temp\ISI\XML\SerializeTo\bin\Debug\Json.Net.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\bin\Debug\SerializeTo.exe.config
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\bin\Debug\SerializeTo.exe
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\bin\Debug\SerializeTo.pdb
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\bin\Debug\Json.Net.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\bin\Debug\Newtonsoft.Json.dll
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\bin\Debug\Newtonsoft.Json.xml
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.AssemblyReference.cache
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.Form1.resources
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.Properties.Resources.resources
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.GenerateResource.cache
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.CoreCompileInputs.cache
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.csproj.CopyComplete
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.exe
+D:\IPCA\Aulas_Material Pedagógico\Codigo Aulas\Temp 20-21\ISI\XML\SerializeTo\obj\Debug\SerializeTo.pdb

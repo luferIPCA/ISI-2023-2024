@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿/*
+ * ASP.NET Core Web API 3.1
+ * lufer
+ * ISI - 2023
+ * */
 using Microsoft.AspNetCore.Mvc;
-using System;
+
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace REST11.Controllers
 {
@@ -15,8 +17,7 @@ namespace REST11.Controllers
         public static List<int> valores = new List<int> { 2, 3, 4, 5, 6, 7 };
 
         [HttpGet]
-        //[Route("Get")]              // .../Valores/Get
-        [Route("Ola")]              // .../Valores
+        [Route("Get")]              // .../Valores/Get
         public List<int> GetValues()
         {
             return valores;
@@ -30,8 +31,7 @@ namespace REST11.Controllers
             valores.Add(v);
             return true;
         }
-
-
-
     }
+
+  
 }

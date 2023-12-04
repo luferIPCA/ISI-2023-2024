@@ -1,9 +1,12 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿
+/*
+ * ASP.NET Core Web API 3.1
+ * lufer
+ * ISI - 2023
+ * */
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using REST1.Model;
 
 namespace REST1.Controllers
 {
@@ -37,6 +40,14 @@ namespace REST1.Controllers
             return valores;
         }
 
+
+        [HttpGet("existe/{x}")]
+        public bool ExisteValor(int x)
+        {
+            if (valores.Contains(x)) return true;
+            return false;
+        }
+
         [HttpPost("addvalores")]       //calc/addvalores
         public bool Add(Values v)
         {
@@ -57,20 +68,9 @@ namespace REST1.Controllers
             }
             return NotFound();  // 404 StatusCodes.Status404NotFound
         }
-
-
-
         #endregion
 
-        #region EXTRA
-        public class Values
-        {
-            int x, y;
-            public int X { get => x ; set => x=value; }
-            //ou
-            public int Y { get { return y; } set { y = value; } }
-        }
-        #endregion
+        
     }
 
     

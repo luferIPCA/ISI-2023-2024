@@ -1,14 +1,14 @@
+/*
+ * ASP.NET Core Web API 3.1
+ * lufer
+ * ISI - 2023
+ * */
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace REST11
+namespace REST1
 {
     public class Startup
     {
@@ -70,10 +70,7 @@ namespace REST11
             {
                 //2º
                 endpoints.MapControllers();
-                //endpoints.MapGet("/", async context =>
-                //{
-                //    await context.Response.WriteAsync("Hello World!");
-                //});
+
             });
 
             #region SWAGGER

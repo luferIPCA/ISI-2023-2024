@@ -4163,11 +4163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESTful Services\\REST 1\\REST1.csproj",
+      "projectUniqueName": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESfulServices\\REST 1\\REST1.csproj",
       "projectName": "REST1",
-      "projectPath": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESTful Services\\REST 1\\REST1.csproj",
+      "projectPath": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESfulServices\\REST 1\\REST1.csproj",
       "packagesPath": "C:\\Users\\lufer\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESTful Services\\REST 1\\obj\\",
+      "outputPath": "D:\\Temp\\ISI - LESI\\CodigoAulas\\REST\\RESfulServices\\REST 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

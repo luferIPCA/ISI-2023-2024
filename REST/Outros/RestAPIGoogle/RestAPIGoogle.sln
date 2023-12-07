@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPIGoogle", "RestAPIGoogle\RestAPIGoogle.csproj", "{98AE78AE-4B44-49D5-8A20-411DBF91A6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuth", "GoogleAuth\GoogleAuth.csproj", "{1085D768-7176-43A8-81A4-28F7E96EAE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98AE78AE-4B44-49D5-8A20-411DBF91A6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AE78AE-4B44-49D5-8A20-411DBF91A6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AE78AE-4B44-49D5-8A20-411DBF91A6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AE78AE-4B44-49D5-8A20-411DBF91A6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1085D768-7176-43A8-81A4-28F7E96EAE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1085D768-7176-43A8-81A4-28F7E96EAE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1085D768-7176-43A8-81A4-28F7E96EAE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1085D768-7176-43A8-81A4-28F7E96EAE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2FC1744-6DD0-4F22-9B76-F5BB753B226D}
+	EndGlobalSection
+EndGlobal

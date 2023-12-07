@@ -1,0 +1,86 @@
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.exe
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.deps.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.runtimeconfig.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.runtimeconfig.dev.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.pdb
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.xml
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.AssemblyInfoInputs.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.AssemblyInfo.cs
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\staticwebassets\RESTAuth.StaticWebAssets.xml
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\scopedcss\bundle\RESTAuth.styles.css
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.csproj.CopyComplete
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.xml
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.pdb
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.genruntimeconfig.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.exe
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.deps.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.runtimeconfig.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.runtimeconfig.dev.json
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\RESTAuth.xml
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.AssemblyInfoInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.AssemblyInfo.cs
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\staticwebassets\RESTAuth.StaticWebAssets.Manifest.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\staticwebassets\RESTAuth.StaticWebAssets.xml
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\scopedcss\bundle\RESTAuth.styles.css
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.csproj.CopyComplete
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.dll
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.xml
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.pdb
+D:\Temp\ISI - LESI\CodigoAulas\REST\RESfulServices\Auth\RESTAuth\obj\Debug\netcoreapp3.1\RESTAuth.genruntimeconfig.cache

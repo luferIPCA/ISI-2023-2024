@@ -1,0 +1,86 @@
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.exe
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.deps.json
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.runtimeconfig.json
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.runtimeconfig.dev.json
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.pdb
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.AssemblyInfoInputs.cache
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.AssemblyInfo.cs
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.csproj.CoreCompileInputs.cache
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI1.StaticWebAssets.Manifest.cache
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI1.StaticWebAssets.xml
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI1.styles.css
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.dll
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.pdb
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.genruntimeconfig.cache
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.csproj.AssemblyReference.cache
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.csproj.CopyComplete
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\WebAPI1.xml
+C:\Users\lufer\source\repos\WebAPI1\obj\Debug\netcoreapp3.1\WebAPI1.xml
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lufer\source\repos\WebAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.exe
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.deps.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.runtimeconfig.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.runtimeconfig.dev.json
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.pdb
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\WebAPI1.xml
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.csproj.AssemblyReference.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.AssemblyInfoInputs.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.AssemblyInfo.cs
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.csproj.CoreCompileInputs.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.MvcApplicationPartsAssemblyInfo.cs
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.MvcApplicationPartsAssemblyInfo.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI1.StaticWebAssets.Manifest.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI1.StaticWebAssets.xml
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI1.styles.css
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.RazorTargetAssemblyInfo.cache
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.csproj.CopyComplete
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.dll
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.xml
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.pdb
+D:\Temp\ISI - LESI\RESTful Services Base\RESTAuth\obj\Debug\netcoreapp3.1\WebAPI1.genruntimeconfig.cache

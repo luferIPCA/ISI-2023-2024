@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RESTAuth</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI1.Controllers.IJWTAuthManager.Authenticate(WebAPI1.Model.AuthRequest)">
+            <summary>
+            Várias possibilidades de autenticação
+            Podem ser criadas mais!
+            </summary>
+            <param name="loginDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="T:WebAPI1.Controllers.JWTAuthManager">
+            <summary>
+            Classe auxiliar para gerir Autenticação e JWT
+            </summary>
+        </member>
+        <member name="F:WebAPI1.Controllers.JWTAuthManager.users">
+            <summary>
+            Simula Bases de dados com users registados!
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:WebAPI1.Controllers.JWTAuthManager.#ctor(Microsoft.Extensions.Configuration.IConfiguration)" -->
+        <member name="M:WebAPI1.Controllers.JWTAuthManager.#ctor(System.String)">
+            <summary>
+            Gere Token: instanciado em Startup.cs
+            </summary>
+            <param name="tokenKey"></param>
+        </member>
+        <member name="M:WebAPI1.Controllers.JWTAuthManager.Authenticate(System.String,System.Security.Claims.Claim[])">
+            <summary>
+            h1: Autenticar com Claims
+            </summary>
+            <param name="username"></param>
+            <param name="claims"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI1.Controllers.JWTAuthManager.Authenticate(WebAPI1.Model.AuthRequest)">
+            <summary>
+            h2:Autenticar sem Claims mas apenas com login/password
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI1.Controllers.JWTAuthManager.GenerateTokenString(System.String,System.DateTime,System.Security.Claims.Claim[])">
+            <summary>
+            H1: Gerar JWT token!
+            Caso existam claims...
+            </summary>
+            <param name="username"></param>
+            <param name="expires"></param>
+            <param name="claims">Claims Opcional!!!</param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI1.Controllers.JWTAuthManager.GenerateTokenString">
+            <summary>
+            H2: Gerar JWT por defeito
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI1.Controllers.JWTAuthManager.ValidarUser(WebAPI1.Model.AuthRequest)">
+            <summary>
+            Certificar dados de autenticação
+            </summary>
+            <param name="loginDetalhes"></param>
+            <returns></returns>
+        </member>
+        <member name="T:WebAPI1.Controllers.SecurityController">
+            <summary>
+            Preparar geração de JWT Token
+            </summary>
+        </member>
+        <member name="M:WebAPI1.Controllers.SecurityController.Login(WebAPI1.Model.AuthRequest)">
+            <summary>
+            Método POST para Autenticação...sem autenticação!!!
+            </summary>
+            <param name="loginDetalhes"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,81 @@
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.exe
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.deps.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.runtimeconfig.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.pdb
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.AssemblyInfo.cs
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets\msbuild.WebApplicationCoreAPIAuthAula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplicationCoreAPIAuthAula.props
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationCoreAPIAuthAula.props
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationCoreAPIAuthAula.props
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\scopedcss\bundle\WebApplicationCoreAPIAuthAula.styles.css
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.csproj.CopyComplete
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\refint\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.pdb
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.genruntimeconfig.cache
+C:\Users\admin\source\repos\WebApplicationCoreAPIAuthAula\WebApplicationCoreAPIAuthAula\obj\Debug\net7.0\ref\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.exe
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.deps.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.runtimeconfig.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\WebApplicationCoreAPIAuthAula.pdb
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Npgsql.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.csproj.AssemblyReference.cache
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.AssemblyInfoInputs.cache
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.AssemblyInfo.cs
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.csproj.CoreCompileInputs.cache
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets\msbuild.WebApplicationCoreAPIAuthAula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplicationCoreAPIAuthAula.props
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationCoreAPIAuthAula.props
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplicationCoreAPIAuthAula.props
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\scopedcss\bundle\WebApplicationCoreAPIAuthAula.styles.css
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.csproj.CopyComplete
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\refint\WebApplicationCoreAPIAuthAula.dll
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.pdb
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\WebApplicationCoreAPIAuthAula.genruntimeconfig.cache
+C:\Users\admin\myfiles\2023-24\1Semestre\ESI-ISI\material aulas\aula21\WebApplicationCoreAPIAuthAula_Aula19Dez_pub\obj\Debug\net7.0\ref\WebApplicationCoreAPIAuthAula.dll
